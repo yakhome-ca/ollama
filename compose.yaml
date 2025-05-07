@@ -1,4 +1,4 @@
-ervices:
+services:
   ollama:
     image: ollama/ollama:latest
     ports:
